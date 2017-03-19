@@ -1,0 +1,21 @@
+######################
+# Project Specific
+######################
+/target/**
+target/**
+
+######################
+# Eclipse
+######################
+
+/.project
+/.project
+/.project
+.project
+
+/.settings/**
+
+######################
+# NetBeans
+######################
+/nbactions.xml
